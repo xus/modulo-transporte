@@ -1,0 +1,1 @@
+Basic Module Magento to create a new carrier.
